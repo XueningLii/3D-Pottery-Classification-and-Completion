@@ -5,7 +5,7 @@
 
 The aim of this project is to explore the feasibility of applying 3D graphic classification and complementation algorithms based on deep learning to the automatic classification and restoration of pottery—a specific type of cultural artifact. The goal is to achieve more optimal results and valuable evaluation metrics, while also accumulating comprehensive engineering implementation experience in using deep learning for cultural artifact restoration. This experience will serve as an important reference for the application of artificial intelligence in the field of cultural heritage preservation.
 
-## Key Contributions of This Project:
+## Key Contributions of This Project
 
 1. **Comprehensive Research:** Conducted an extensive survey to understand and compile existing works related to the application of AI in artifact classification and restoration, providing a solid theoretical foundation for the project's implementation.
   
@@ -21,6 +21,6 @@ The aim of this project is to explore the feasibility of applying 3D graphic cla
   
 7. **Evaluation Metrics Analysis:** Conducted multi-dimensional comparisons, correlations, and analyses of evaluation metrics, identifying current limitations and providing suggestions for future improvements.
 
-## Usage Instructions
+## Usage Instruction
 1. Create a folder named `data` in the project directory, then download the 3D Pottery 8 dataset from [this link](https://drive.google.com/file/d/10SBMk4bASs4oWcTT_7z_29wSgJv5TyhP/view?usp=drive_link) into this folder and unzip it.
 2. Run the `train_PCN.ipynb`, `train_PF_Net.ipynb`, or `train_PointNet.ipynb` scripts on platforms like Google Colab to step through the experimental results. Alternatively, you can convert the `.ipynb` files into regular Python scripts and run them.
